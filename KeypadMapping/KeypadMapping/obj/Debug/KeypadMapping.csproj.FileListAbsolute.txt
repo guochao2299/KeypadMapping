@@ -1,0 +1,8 @@
+G:\MyBlog\KeypadMapping\KeypadMapping\bin\Debug\KeypadMapping.exe
+G:\MyBlog\KeypadMapping\KeypadMapping\bin\Debug\KeypadMapping.pdb
+G:\MyBlog\KeypadMapping\KeypadMapping\obj\Debug\KeypadMapping.Properties.Resources.resources
+G:\MyBlog\KeypadMapping\KeypadMapping\obj\Debug\KeypadMapping.csproj.GenerateResource.Cache
+G:\MyBlog\KeypadMapping\KeypadMapping\obj\Debug\KeypadMapping.exe
+G:\MyBlog\KeypadMapping\KeypadMapping\obj\Debug\KeypadMapping.pdb
+G:\MyBlog\KeypadMapping\KeypadMapping\obj\Debug\KeypadMapping.frmMain.resources
+G:\MyBlog\KeypadMapping\KeypadMapping\obj\Debug\KeypadMapping.frmSettings.resources
